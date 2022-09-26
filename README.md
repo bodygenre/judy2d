@@ -6,7 +6,7 @@ Judy-2D is the second iteration of [JewD](https://github.com/bodygenre/JewD). It
 
 ## How to Build and Run
 
-0. Join [#coding-bardos](https://discord.com/channels/788925423420964904/979894864709824582) on [BodyGen.re's Discord](https://discord.gg/bfd4nWAAC6). Hang out and tell us what cool ideas you have for Judy or what sort of coding things you want to learn about
+0. Join [#coding-bardos](https://discord.com/channels/788925423420964904/979894864709824582) on [BodyGen.re's Discord](https://discord.gg/bfd4nWAAC6). Also read [CONTRIBUTING.md]](CONTRIBUTING.md).
 
 1. Install [Rust](https://www.rust-lang.org/tools/install) and [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
